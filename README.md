@@ -8,4 +8,4 @@ Comments:
 - It is curious that years of use if vehicle is 4wd does not impact negatively on price. 4wd drive helps to increase price
 
 Link:
-https://github.com/chrs7n/Practical-Application-Assignment-11.1
+https://github.com/chrs7n/Practical-Application-Assignment-11.1/blob/main/Practical_Assigment_11_UsedCars.ipynb
